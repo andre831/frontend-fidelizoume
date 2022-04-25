@@ -9,6 +9,7 @@ In this test, I was looking to create some filters on top of good development pr
 - React
 - React Router
 - Styled-Components
+- Axios
 - Docker
 - Docker Compose
 
