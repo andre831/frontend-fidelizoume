@@ -1,7 +1,7 @@
 ## FIDELIZOU.ME FRONT-END
 Hey guys. How are you?
 
-Alright, let's go.. 🚀
+It's all right, let's go.. 🚀
 
 In this test, I was looking to create some filters on top of good development practices to get quick results.
 
