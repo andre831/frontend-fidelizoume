@@ -12,7 +12,7 @@ services:
       - CHOKIDAR_USEPOLLING=true
     volumes:
       - ./frontend:/usr/app
-
+      - /usr/app/node_modules
     expose:
       - 3000
     ports:
